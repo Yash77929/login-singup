@@ -37,5 +37,5 @@ A minimalistic full-stack web application that supports **user registration**, *
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jwt-auth-webapp.git
-cd jwt-auth-webapp
+git clone https://github.com/your-username/login-singup.git
+cd login-signup
